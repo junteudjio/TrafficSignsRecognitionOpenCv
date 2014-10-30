@@ -60,8 +60,7 @@ ______________________INTELLIGENT  CAR  PROJECT_____________________
 		c) 3_create_PCA_CovMatrix.cpp : this code is used to generate the PCA covariance matrix used for dimensionnality reduction
 		d) 4_trainNeuralNet.cpp : this code is used to train a neural network for classifying road sign images and then save the generated model
 		e) 5_recognition.cpp : this code is used to compute  traffic sign images recognition
-	
-		g) CMakeLists.txt : CMake file use to execute each of these files.
+		f) CMakeLists.txt : CMake file use to execute each of these files.
 
 
 
