@@ -56,12 +56,12 @@ _____________________________________________________________INTELLIGENT  CAR  P
 
 	1-  PROJECT FILES:
 
-		a) 1_createDataSet.cpp : this code is used to construct the dataSet  in a .txt format from raw .ppm image files
+		a) 1_loadDataSet.cpp : this code is used to construct the dataSet  in a .txt format from raw .ppm image files
 		b) 2_shuffleDataSet.cpp : this code is used to shuffle the dataSet 
 		c) 3_create_PCA_CovMatrix.cpp : this code is used to generate the PCA covariance matrix used for dimensionnality reduction
 		d) 4_trainNeuralNet.cpp : this code is used to train a neural network for classifying road sign images and then save the generated model
 		e) 5_recognition.cpp : this code is used to compute  traffic sign images recognition
-		f) 6_detect_AND_recognize.cpp :  this code is used to compute both trafic sign image Detection & recognition
+	
 		g) CMakeLists.txt : CMake file use to execute each of these files.
 
 
