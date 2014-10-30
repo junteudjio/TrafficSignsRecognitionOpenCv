@@ -4,15 +4,14 @@ TrafficSignsRecognitionOpenCv
 
 
 
-_____________________________________________________________INTELLIGENT  CAR  PROJECT______________________________________________________________
+__________________________________INTELLIGENT  CAR  PROJECT_______________________________________________
 
 /* "Intelligent Car" is a project conducted in national school of applied sciences Tanger-Morocco during summer 2014 and more precisely within the
     Image Processing Laboratry.
 
-   It's Goal is to aspire to an intelligent car able to detect and  recognize traffic  signs while moving.
+   It's Goal is to aspire to an intelligent car able to  recognize traffic  signs while moving.
 	
-   The detection Phase is done using The houghCircle function provided in OpenCv
-   For the recognizing phase we have used a neural network classifier after having conducted a dimensionality reduction on the data Set using PCA.
+   For this purpose we have used a neural network classifier after having conducted a dimensionality reduction on the data Set using PCA.  ( 98.95% precision achieved )
 */
 
 
