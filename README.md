@@ -4,7 +4,7 @@ TrafficSignsRecognitionOpenCv
 
 
 
-__________________________________INTELLIGENT  CAR  PROJECT_______________________________________________
+______________________INTELLIGENT  CAR  PROJECT_____________________
 
 /* "Intelligent Car" is a project conducted in national school of applied sciences Tanger-Morocco during summer 2014 and more precisely within the
     Image Processing Laboratry.
