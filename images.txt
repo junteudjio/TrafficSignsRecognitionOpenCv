@@ -1,0 +1,13 @@
+
+In order to run the code, you  need to have the data set on your computer. 
+It can be dawloaded via :http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
+
+
+For this project only a subset of this data set has been used, ie:  the traffic signs for categories :
+{13,14,15,17,19,20,21,27,33,34,35,36,37}.
+
+So  download the images from these 13 categories and store them in a folder called "Images"  in  the same directory as the
+others .cpp  files.
+
+However,  you can  still  test the code on the entire data set if you want, but remember to do some few modifications 
+to the code accordingly. (let me notice if you need help)
