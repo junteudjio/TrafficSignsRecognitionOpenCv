@@ -79,3 +79,10 @@ ______________________INTELLIGENT  CAR  PROJECT_____________________
 
 */
 
+/* _______Modified by NodYoung李亚楠_______
+	
+   In order to use and study the coder easily. I compile this project through VisualStudio2010 and OpenCV2.4.8 under Window7.
+
+   Due to the limition of upload file size, some related files can be downloaded via: [http://pan.baidu.com/s/1qXxWN1q](http://pan.baidu.com/s/1qXxWN1q).
+
+*/
